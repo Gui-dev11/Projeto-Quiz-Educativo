@@ -1,0 +1,18 @@
+# IGNORAR PASTAS DO VISUAL STUDIO
+.vs/
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.pdb
+*.vscode/
+
+# IGNORAR ARQUIVOS TEMPORÁRIOS
+*.tmp
+*.log
+
+# IGNORAR ARQUIVOS DE BACKUP
+*.bak
+*.old
