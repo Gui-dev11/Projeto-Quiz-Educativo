@@ -8,7 +8,6 @@
             // ======================   DIVISÃO DO PROJETO POR INTEGRANTE   ======================
             // ========================================================================
             // Cada integrante possui abaixo a explicação detalhada DAS SUAS CLASSES
-            // no MESMO estilo do exemplo enviado pelo usuário.
 
             // ========================================================================
             // ========================== 1. LUÍS GUSTAVO ==============================
